@@ -1,0 +1,5 @@
+{
+  "name": "Python Guruji Chatbot",
+  "description": "An interactive chatbot that teaches Python to absolute beginners using simple analogies and a gamified learning experience, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
